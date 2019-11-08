@@ -1,0 +1,32 @@
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.nav-item {
+    color: lightgray;
+}
+
+.loginBlock {
+    padding: 50px;
+}
+
+.city {
+    font-weight: 600;
+}
+
+.prix {
+    font-weight: 600;
+}
+
+.row_trajet {
+    display: flex;
+    align-items: center;
+    margin: 4px;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.container_list {
+    display: flex;
+    flex-direction: column;
+}
